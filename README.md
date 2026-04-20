@@ -1,7 +1,7 @@
 
 ---
 
-# 🧠 Breast Tumor Segmentation using U-N
+# 🧠 Breast Tumor Segmentation using U-Ne
 
 Deep learning–based semantic segmentation of breast ultrasound images using an enhanced U-Net architecture.
 
